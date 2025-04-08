@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @onixghost
+- 🌱 I’m currently learning JavaScripts and Python
+- ⚡ Fun fact: I want to grow up on programming
+- 👫 Im in collaboration with @Unsky-dev and @7474N0U for an weather app projecr called Veterra for the moment 
